@@ -47,7 +47,7 @@ If you use our results in your research, please cite our paper as:
 ```
 @inproceedings{Gerlach2023SecurityRISC,
  author = {Gerlach, Lukas and Weber, Daniel and Zhang, Ruiyi and Schwarz, Michael},
- booktitle = {IEEE S&P},
+ booktitle = {S\&P},
  title = {{A Security RISC: Microarchitectural Attacks on Hardware RISC-V CPUs}},
  year = {2023}
 }
