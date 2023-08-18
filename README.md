@@ -44,7 +44,7 @@ Each subfolder contains a README on how to run the specific experiment. We provi
 
 ## Citing Paper and Artifcats
 If you use our results in your research, please cite our paper as:
-```
+```bibtex
 @inproceedings{Gerlach2023SecurityRISC,
  author = {Gerlach, Lukas and Weber, Daniel and Zhang, Ruiyi and Schwarz, Michael},
  booktitle = {S\&P},
@@ -53,11 +53,11 @@ If you use our results in your research, please cite our paper as:
 }
 ```
 And our artifacts as:
-```
+```bibtex
 @misc{Gerlach2023SecurityRISCartifacts,
  author = {Gerlach, Lukas and Weber, Daniel and Zhang, Ruiyi and Schwarz, Michael},
  url = {https://github.com/cispa/Security-RISC}
  title = {{A Security RISC: Microarchitectural Attacks on Hardware RISC-V CPUs Artifact Repository}},
- year = {2021}
+ year = {2023}
 }
 ```
