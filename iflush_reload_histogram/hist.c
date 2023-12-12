@@ -32,7 +32,7 @@ void measure_hits(void *address, size_t *histogram,
       histogram[hit]++;
   }
 }
-‚
+
 void measure_misses(void *address, size_t *histogram,
                     size_t number_of_measurements) {
   for (size_t i = 0; i < number_of_measurements; i++) {

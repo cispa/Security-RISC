@@ -9,4 +9,4 @@ Build the PoC using `make`, and create the inaccessible folder using `make prepa
 Then run `./main`. 
 
 ## Works on 
-C906, U74
+C906, U74, C910

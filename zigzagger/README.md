@@ -6,4 +6,4 @@ The asm.S file contains the target assembly code implementing the mitigation.
 Simply run `make` and then `./main` you should see an output simmilar to the one displayed below.
 
 ## Works on 
-C906,U74
+C906,U74,C910

@@ -8,4 +8,4 @@ Run `make` then `./flush-fault` or `./flush-ret`.
 Afterward, execute `python3 stats.py flush-fault` or `python3 stats.py flush-ret`.
 
 # Works on 
-C906,U74
+C906,U74,C910

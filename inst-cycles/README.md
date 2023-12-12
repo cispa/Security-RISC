@@ -5,4 +5,4 @@ Measure the execution time (in cycles) of instructions.
 Simply `make; ./main`
 
 # Works on 
-C906,U74
+C906,U74,C910

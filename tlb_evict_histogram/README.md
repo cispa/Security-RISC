@@ -6,4 +6,4 @@ To evict, the PoC simply accesses 10 addresses on different pages forcing one ad
 Simply `make; ./hist` should produce an output simmilar to the one below. 
 
 ## Works on
-C906, U74
+C906, U74, C910

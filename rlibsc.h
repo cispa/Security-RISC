@@ -98,7 +98,7 @@ static inline void maccess(void *addr) {
 // ------------------------------
 // C906 specific implementaions +
 // ------------------------------
-#ifdef C906
+#if defined(C906) || defined(C910)
 
 // Flushes virtual address from the D-Cache
 static inline void flush(void *addr) {

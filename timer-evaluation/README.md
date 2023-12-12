@@ -6,4 +6,4 @@ To run the main timer benchmark simply run `make; ./main` this should print a ta
 To check the timer increment run `make; ./timer-resulution` which should give the timer increments for each counter. 
 
 ## Works on
-C906, U74
+C906, U74, C910

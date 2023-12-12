@@ -7,5 +7,5 @@ As only a single measurement is performed the timing can be unstable (especially
 Run `make` then `./main`
 
 # Works on
-C906, U74
+C906, U74, C910
 
