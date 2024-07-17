@@ -7,4 +7,4 @@ To flush, the PoC uses the `fence.i` instruction which flushes the entire instru
 Run `make` then `./hist`
 
 # Works on 
-C906,U74,C910
+C906,U74,C910,C908

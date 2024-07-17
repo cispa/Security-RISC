@@ -7,4 +7,4 @@ To test that the attacker works you will have to send network interrupts to the 
 To test, run the program and from a different machine run `ping -s 50000 -i 3 <target machine ip>`.
 
 # Works on 
-C906,U74,C910
+C906,U74,C910,C908

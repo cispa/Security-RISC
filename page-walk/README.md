@@ -6,4 +6,4 @@ This experiment shows that a page table walk does not issue additional instructi
 Run `make` followed by `./main`
 
 ## Works on 
-U74 (timing difference and retired instruction difference), C906 and C910 (timing difference)
+U74 (timing difference and retired instruction difference), C906, C910, C908 (timing difference)

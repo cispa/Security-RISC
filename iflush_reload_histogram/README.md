@@ -7,4 +7,4 @@ To flush, the PoC uses the custom C906 instruction `icache.iva` which flushes a 
 Run `make` then `./hist`
 
 # Works on 
-C906, C910 (because custom cache flush instruction)
+C906, C910, C908 (because custom cache flush instruction)

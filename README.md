@@ -9,6 +9,7 @@ Processor specifications from our paper, C910 processor was added afterwards:
 | Processor | Manufacturer | Distro             | Kernel                                       |
 |-----------|--------------|--------------------|----------------------------------------------|
 | C906      | Allwinner    | Debian 12          | 5.14.0-rc4-nezha (Nezha), 5.4.61 (Lichee RV) |
+| C908      | Allwinner    | Debian 13          | Linux version 5.10.4                         |
 | C910      | Allwinner    | Ubuntu 23.04       | 5.10.113-g52fbe8443ea1-dirty                 |
 | U74       | SiFive       | Ubuntu 22.04.1 LTS | 5.17.5-visionfive                            |
 
