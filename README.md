@@ -1,17 +1,17 @@
 # Artifacts for A Security RISC
-This repository contains the artifacts for the IEEE S&P 2023 paper "A Security RISC: Microarchitectural Attacks on Hardware RISC-V CPUs". You can find the paper on the [CISPA website](https://cispa.de/en/research/publications/3924-a-security-risc-microarchitectural-attacks-on-hardware-risc-v-cpus).
+This repository contains the artifacts for the IEEE S&P 2023 paper ["A Security RISC: Microarchitectural Attacks on Hardware RISC-V CPUs"](https://misc0110.net/files/riscv_attacks_sp23.pdf). 
 
 
 ## Supported Processors and Distributions
-Currently, the experiments are tested on both the Alwinner C906, C910 and SiFive U74 processors. 
-Processor specifications from our paper, C910 processor was added afterwards:
+Currently, the experiments are tested on the T-Head C906, C908, C910 and SiFive U74 processor. 
+The C906 and U74 are in the paper, the others were added afterwards:
 
-| Processor | Manufacturer | Distro             | Kernel                                       |
-|-----------|--------------|--------------------|----------------------------------------------|
-| C906      | Allwinner    | Debian 12          | 5.14.0-rc4-nezha (Nezha), 5.4.61 (Lichee RV) |
-| C908      | Allwinner    | Debian 13          | Linux version 5.10.4                         |
-| C910      | Allwinner    | Ubuntu 23.04       | 5.10.113-g52fbe8443ea1-dirty                 |
-| U74       | SiFive       | Ubuntu 22.04.1 LTS | 5.17.5-visionfive                            |
+| Processor    | Board                             | Distro             | Kernel                                       |
+|--------------|-----------------------------------|--------------------|----------------------------------------------|
+| T-Head C906  | Sipeed Nezha / Sipeed Lichee RV   | Debian 12          | 5.14.0-rc4-nezha (Nezha), 5.4.61 (Lichee RV) |
+| T-Head C908  | CanMV Kendryte K230               | Debian 13          | 5.10.4                                       |
+| T-Head C910  | BeagleV Ahead                     | Ubuntu 23.04       | 5.10.113-g52fbe8443ea1-dirty                 |
+| SiFive U74   | StarFive VisionFive 2             | Ubuntu 22.04.1 LTS | 5.17.5-visionfive                            |
 
 
 ## Utils
