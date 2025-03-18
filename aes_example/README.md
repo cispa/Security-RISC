@@ -4,7 +4,7 @@
 # Run code
 To compile opensssl 1.0.1e run the following commands in your **home** folder. 
 ```
-wget https://ftp.openssl.org/source/old/1.0.1/openssl-1.0.1e.tar.gz
+wget https://github.com/openssl/openssl/releases/download/OpenSSL_1_0_1e/openssl-1.0.1e.tar.gz
 tar -xzf openssl-1.0.1e.tar.gz
 cd openssl-1.0.1e
 ./config shared
